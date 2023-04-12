@@ -9,6 +9,10 @@ Its a simple whether app created using html,css and javascript. It shows the cur
 2. Install Live server extension and Open with live server.
 
  ---
+### Screenshots 
+![image]("C:\Users\kulka\Downloads\whwther_image.png")
+
+
 
 </pre>
 </li>
