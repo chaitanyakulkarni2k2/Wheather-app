@@ -10,7 +10,7 @@ Its a simple whether app created using html,css and javascript. It shows the cur
 
  ---
 ### Screenshots 
-![image]("C:\Users\kulka\Downloads\whwther_image.png")
+![image]("https://C:\Users\kulka\Downloads\whwther_image.png")
 
 
 
